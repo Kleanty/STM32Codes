@@ -1,0 +1,2 @@
+../Core/Src/4x3KeypadLib.c:18:6:keypadINIT	64	static
+../Core/Src/4x3KeypadLib.c:64:6:readKeypad	24	static
